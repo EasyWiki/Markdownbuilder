@@ -24,6 +24,10 @@
   "homepage": "https://github.com/WatcherWhale/Markdownbuilder#readme",
   "dependencies": {
     "@easywiki/betterfilesystem": "0.0.1",
-    "markup-it": "^12.0.1"
+    "marked": "^0.8.0"
+  },
+  "devDependencies": {
+    "@types/marked": "^0.7.2",
+    "@types/node": "^13.1.1"
   }
 }
